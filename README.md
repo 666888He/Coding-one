@@ -15,3 +15,5 @@ The yellow outer space represents the smoke and dust in the air pollution. The h
 This work applies three.js, shaders, and external Mp3 sound files, etc. After building the basic model, adjust the corresponding rotation center and position, and assign the corresponding material map.
 
 In short, I designed this interactive work of "planetary defense line" to reflect several unavoidable problems faced by our human beings in the form of abstract and conceptual visual expression. I would also like to appeal to all mankind to jointly guard our homeland and do not wait until our lose it to know regret.
+
+Code:      https://github.com/666888He/Coding-one/blob/main/Fork%20of%20Intro%20to%20Three.js-MIMIC/index.html
